@@ -4,8 +4,10 @@
 
 3. type "node" before each of the commands to run the program
 
-	e.g. $ node llm create_order TST MK 
+e.g. 
 
-	     $ node llm list_orders
+$ node llm create_order TST MK 
 
-	     $ node llm take_order 2
+$ node llm list_orders
+
+$ node llm take_order 2
